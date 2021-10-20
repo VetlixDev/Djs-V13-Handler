@@ -7,7 +7,7 @@
     "start": "nodemon index.js"
   },
   "author": "Vetlix#4336",
-  "license": "ISC",
+  "license": "GPL-3.0",
   "dependencies": {
     "discord.js": "^13.2.0",
     "fs": "^0.0.1-security",
