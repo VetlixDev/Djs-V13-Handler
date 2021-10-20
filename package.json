@@ -4,7 +4,7 @@
   "description": "A command and event handler for discord.js v13",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "author": "Vetlix#4336",
   "license": "ISC",
@@ -13,6 +13,7 @@
     "fs": "^0.0.1-security",
     "glob": "^7.2.0",
     "mongoose": "^6.0.10",
-    "util": "^0.12.4"
+    "util": "^0.12.4",
+    "nodemon": "^2.0.14"
   }
 }
